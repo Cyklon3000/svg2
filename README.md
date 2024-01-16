@@ -12,7 +12,7 @@ See the full installation and usage documentation [HERE](https://docs.oslllo.com
 
 ## The Objective
 
-I wanted to convert `SVGs` into diffrent image formats.
+I wanted to convert `SVGs` into different image formats.
 
 ## The Problem / Why
 
